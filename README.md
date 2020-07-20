@@ -12,8 +12,7 @@ I´m [Microsoft Data Platform MVP](http://mvp.microsoft.com/es-es/mvp/Enrique%20
 
 </div>
 
-[![MVP](/img/MVP_Logo_horizontal.png)](https://mvp.microsoft.com/es-es/PublicProfile/5000312?fullName=Enrique%20Catala)
-
+<a href="https://mvp.microsoft.com/es-es/PublicProfile/5000312?fullName=Enrique%20Catala"><img src="https://raw.githubusercontent.com/enriquecatala/enriquecatala/master/img/MVP_Logo_horizontal.png" alt="Microsoft DataPlatform MVP Enrique Catalá"></a>
 
 <!--
 
