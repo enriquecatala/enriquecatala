@@ -8,13 +8,11 @@ I´m [Microsoft Data Platform MVP](http://mvp.microsoft.com/es-es/mvp/Enrique%20
 <a href="https://github.com/sponsors/enriquecatala"><img src="https://img.shields.io/badge/GitHub_Sponsors--_.svg?style=flat&logo=github&logoColor=EA4AAA" alt="GitHub Sponsors"></a>
 <a href="https://www.linkedin.com/in/enriquecatala"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=flat&logo=linkedin" alt="LinkedIn"></a>
 <a href="https://twitter.com/enriquecatala"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/enriquecatala?label=twitter&style=flat" alt="Twitter"></a>
+<a href="https://youtube.com/enriquecatala"><img src="https://raw.githubusercontent.com/enriquecatala/enriquecatala/master/img/youtube.png" alt="Canal de Enrique Catalá"></a>
 
 </div>
 
 [![MVP](/img/MVP_Logo_horizontal.png)](https://mvp.microsoft.com/es-es/PublicProfile/5000312?fullName=Enrique%20Catala)
-
-
-<a href="https://youtube.com/enriquecatala"><img src="https://raw.githubusercontent.com/enriquecatala/enriquecatala/master/img/youtube.png" alt="Canal de Enrique Catalá"></a>
 
 
 <!--
