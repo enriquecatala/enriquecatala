@@ -9,14 +9,19 @@ I´m [Microsoft Data Platform MVP](http://mvp.microsoft.com/es-es/mvp/Enrique%20
 <a href="https://www.linkedin.com/in/enriquecatala"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=flat&logo=linkedin" alt="LinkedIn"></a>
 <a href="https://twitter.com/enriquecatala"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/enriquecatala?label=twitter&style=flat" alt="Twitter"></a>
 
+</div>
+
+[![MVP](/img/MVP_Logo_horizontal.png)](https://mvp.microsoft.com/es-es/PublicProfile/5000312?fullName=Enrique%20Catala)
+
+
+<a href="https://youtube.com/enriquecatala"><img src="https://raw.githubusercontent.com/enriquecatala/enriquecatala/master/img/youtube.svg" alt="Canal de Enrique Catalá"></a>
+
+
+<!--
 
 <script src="https://apis.google.com/js/platform.js"></script> 
 <div class="g-ytsubscribe" data-channelid="UCYboHnN6tvFfHqPWZWY82AQ" data-layout="default" data-count="default"></div>
-</div>
 
-[![MVP](img/MVP_Logo_horizontal.png)](https://mvp.microsoft.com/es-es/PublicProfile/5000312?fullName=Enrique%20Catala)
-
-<!--
 **enriquecatala/enriquecatala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
