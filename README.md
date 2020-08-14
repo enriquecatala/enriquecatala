@@ -1,6 +1,11 @@
 ### Hi, I´m Enrique Catalá 👋 
 
-I´m [Microsoft Data Platform MVP](http://mvp.microsoft.com/es-es/mvp/Enrique%20Catala-5000312),  Computer engineer graduated with honors and Microsoft Certified Trainer ( MCT ). Passionate on solving scalability and performance problems in [OLTP](https://es.wikipedia.org/wiki/OLTP) systems (database, dotnet and [bare metal](https://en.wikipedia.org/wiki/Bare_machine)). Specialiced in the definition and implementation of reliable high availability environments in both Azure and OnPremises, where I successfully led more than 150 projects in different countries like USA, Spain , United Arab Emirates, Netherlands , Mexico , Austria... I´m the principal architect of the SolidQ solutions called [HealthCheck](http://www.solidq.com/wp-content/uploads/2016/10/healthcheck_ES_v4_ES_l.pdf) , [QueryAnalytics](https://powerbi.microsoft.com/es-es/partner-showcase/solidq-solidq-tsql-query-analytics-en/) and DatabaseObfuscator. Regular speaker at different conferences about .NET and DataPlatform. Staff member of the [Madrid´s SQLSaturday](https://www.sqlsaturday.com/904/EventHome.aspx) edition.
+I´m [Microsoft Data Platform MVP](http://mvp.microsoft.com/es-es/mvp/Enrique%20Catala-5000312),  Computer engineer graduated with honors and Microsoft Certified Trainer ( MCT ). Passionate on solving scalability and performance problems in [OLTP](https://es.wikipedia.org/wiki/OLTP) systems (database, dotnet and [bare metal](https://en.wikipedia.org/wiki/Bare_machine)). Specialiced in the definition and implementation of reliable high availability environments in both Azure and OnPremises, where I successfully led more than 150 projects in different countries like USA, Spain , United Arab Emirates, Netherlands , Mexico , Austria... I´m the principal architect of the SolidQ solutions called [HealthCheck](http://www.solidq.com/wp-content/uploads/2016/10/healthcheck_ES_v4_ES_l.pdf) , [QueryAnalytics](https://powerbi.microsoft.com/es-es/partner-showcase/solidq-solidq-tsql-query-analytics-en/) and [DatabaseObfuscator](https://blogs.solidq.com/en/sqlserver/debugging-applications-against-production-data-obfuscation-and-gdpr/). Regular speaker at different conferences about .NET and DataPlatform. Staff member of the [Madrid´s SQLSaturday](https://www.sqlsaturday.com/904/EventHome.aspx) edition.
+
+- 🔭 I’m currently working on [SolidQ](https://www.solidq.com)
+- 🌱 I’m currently learning as much stuff i can.
+- 💬 Ask me about Azure, Data, SqlServer, DAX, PowerBI, M, ARM, Docker
+- ⚡ Fun fact: [I´m a ULM pilot :)](https://www.youtube.com/watch?v=1gtMmFfKebI)
 
 <a href="mailto:enrique@enriquecatala.com" >📫 You can reach me here:  </a>
 <div>
@@ -31,3 +36,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### My latest blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+### My latest youtube videos
+<!-- YOUTUBE-POST-LIST:START -->
+<!-- YOUTUBE-POST-LIST:END -->
