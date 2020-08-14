@@ -48,4 +48,8 @@ Here are some ideas to get you started:
 
 ### My latest youtube videos
 <!-- YOUTUBE-POST-LIST:START -->
+- [Desplegar SQL Server personalizado en Kubernetes OnPremises](https://www.youtube.com/watch?v=ZhoRuib2JLc)
+- [Se acabó instalar SQL Server: mssql-server-samplesdb](https://www.youtube.com/watch?v=ULL5nntWn1A)
+- [Crea tu propia imagen personalizada de sql server para docker](https://www.youtube.com/watch?v=9M6Ewpcfw9I)
+- [SQL Server, Docker y WSL2](https://www.youtube.com/watch?v=u5NXXssT1jI)
 <!-- YOUTUBE-POST-LIST:END -->
