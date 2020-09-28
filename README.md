@@ -39,11 +39,11 @@ Here are some ideas to get you started:
 
 ### My latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Cómo aplicar un commit concreto de una rama en otra](https://enriquecatala.com/2020/09/09/aplicar-commit-concreto-de-una-rama-en-otra.html)
 - [Cómo configurar ip estática en Ubuntu Server](https://enriquecatala.com/2020/09/09/como-configurar-ip-estatica-ubuntu-server.html)
 - [Howto update gems on Github pages](https://enriquecatala.com/2020/08/08/githubpages-update-gems.html)
 - [Where is the notepad in windows10 2004 update?](https://enriquecatala.com/2020/07/19/Where-is-the-notepad-in-windows10-2020.html)
 - [Fix for ms-screensketch protocol](https://enriquecatala.com/2020/07/12/ms-screensketch.html)
-- [Speaker en Maratón Power Platform 2020](https://enriquecatala.com/2020/07/08/speaker-maratonpowerplatform.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### My latest youtube videos
