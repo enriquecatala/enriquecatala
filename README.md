@@ -39,11 +39,11 @@ Here are some ideas to get you started:
 
 ### My latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Video: Parchear SQL Server en windows (1/2)](https://enriquecatala.com/2020/10/01/video-parchear-sqlserver-windows.html)
 - [Docker images of SQL server samplesdb updated](https://enriquecatala.com/2020/09/28/docker-images-sqlserver-samplesdb.html)
 - [Cómo aplicar un commit concreto de una rama en otra](https://enriquecatala.com/2020/09/09/aplicar-commit-concreto-de-una-rama-en-otra.html)
 - [Cómo configurar ip estática en Ubuntu Server](https://enriquecatala.com/2020/09/09/como-configurar-ip-estatica-ubuntu-server.html)
 - [Howto update gems on Github pages](https://enriquecatala.com/2020/08/08/githubpages-update-gems.html)
-- [Where is the notepad in windows10 2004 update?](https://enriquecatala.com/2020/07/19/Where-is-the-notepad-in-windows10-2020.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### My latest youtube videos
