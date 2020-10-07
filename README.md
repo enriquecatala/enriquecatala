@@ -48,9 +48,9 @@ Here are some ideas to get you started:
 
 ### My latest youtube videos
 <!-- YOUTUBE-POST-LIST:START -->
+- [Parchear SQL Server en Kubernetes (2/2)](https://www.youtube.com/watch?v=_koA4vfBQEE)
 - [Parchear SQL Server en Windows (1/2)](https://www.youtube.com/watch?v=cRduwHDBoNg)
 - [Desplegar SQL Server personalizado en Kubernetes OnPremises](https://www.youtube.com/watch?v=ZhoRuib2JLc)
 - [Se acabó instalar SQL Server: mssql-server-samplesdb](https://www.youtube.com/watch?v=ULL5nntWn1A)
 - [Crea tu propia imagen personalizada de sql server para docker](https://www.youtube.com/watch?v=9M6Ewpcfw9I)
-- [Parchear SQL Server en Kubernetes (2/2)](https://www.youtube.com/watch?v=_koA4vfBQEE)
 <!-- YOUTUBE-POST-LIST:END -->
