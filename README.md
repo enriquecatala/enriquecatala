@@ -39,11 +39,11 @@ Here are some ideas to get you started:
 
 ### My latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Speaker: Techmarathons](https://enriquecatala.com/2020/10/06/speaker-techmarathons.html)
 - [Video: Parchear SQL Server en kubernetes (2/2)](https://enriquecatala.com/2020/10/06/video-parchear-sqlserver-kubernetes.html)
 - [Video: Parchear SQL Server en windows (1/2)](https://enriquecatala.com/2020/10/01/video-parchear-sqlserver-windows.html)
 - [Docker images of SQL server samplesdb updated](https://enriquecatala.com/2020/09/28/docker-images-sqlserver-samplesdb.html)
 - [Cómo aplicar un commit concreto de una rama en otra](https://enriquecatala.com/2020/09/09/aplicar-commit-concreto-de-una-rama-en-otra.html)
-- [Cómo configurar ip estática en Ubuntu Server](https://enriquecatala.com/2020/09/09/como-configurar-ip-estatica-ubuntu-server.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### My latest youtube videos
