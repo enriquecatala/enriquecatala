@@ -39,11 +39,11 @@ Here are some ideas to get you started:
 
 ### My latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Remote jupyter notebook file root in vscode](https://enriquecatala.com/2021/03/01/remote-jupyter-notebook-file-root-vscode.html)
+- [Despliega servicios de Azure fuera de Azure](https://enriquecatala.com/2021/02/25/Despliega-servicios-azure-fuera-de-azure.html)
 - [Speaker netCoreConf virtual 2021](https://enriquecatala.com/2021/02/25/Speaker-netCoreConf-virtual-2021.html)
 - [10 trucos para aprobar el examen CKA](https://enriquecatala.com/2021/01/19/Trucos-para-aprobar-examen-CKA.html)
 - [Speaker: Techmarathons](https://enriquecatala.com/2020/10/06/speaker-techmarathons.html)
-- [Video: Parchear SQL Server en kubernetes (2/2)](https://enriquecatala.com/2020/10/06/video-parchear-sqlserver-kubernetes.html)
-- [Video: Parchear SQL Server en windows (1/2)](https://enriquecatala.com/2020/10/01/video-parchear-sqlserver-windows.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### My latest youtube videos
