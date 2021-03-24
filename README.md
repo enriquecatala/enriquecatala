@@ -39,11 +39,11 @@ Here are some ideas to get you started:
 
 ### My latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Copying files from docker container to host](https://enriquecatala.com/2021/03/23/docker-copying-files-from-docker-container-to-host.html)
 - [Remote jupyter notebook file root in vscode](https://enriquecatala.com/2021/03/01/remote-jupyter-notebook-file-root-vscode.html)
 - [Despliega servicios de Azure fuera de Azure](https://enriquecatala.com/2021/02/25/Despliega-servicios-azure-fuera-de-azure.html)
 - [Speaker netCoreConf virtual 2021](https://enriquecatala.com/2021/02/25/Speaker-netCoreConf-virtual-2021.html)
 - [10 trucos para aprobar el examen CKA](https://enriquecatala.com/2021/01/19/Trucos-para-aprobar-examen-CKA.html)
-- [Speaker: Techmarathons](https://enriquecatala.com/2020/10/06/speaker-techmarathons.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### My latest youtube videos
