@@ -39,11 +39,11 @@ Here are some ideas to get you started:
 
 ### My latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Cómo instalar Kubernetes con Kubeadm (2/4)](https://enriquecatala.com/2021/04/08/kubernetes-master-bootstap-kubeadm.html)
 - [FastAPI helloworld!](https://enriquecatala.com/2021/03/31/fastapi-helloworld.html)
 - [Cómo instalar Kubernetes con Kubeadm (1/4)](https://enriquecatala.com/2021/03/30/instalar-cluster-kubernetes-kubeadm.html)
 - [Copying files from docker container to host](https://enriquecatala.com/2021/03/23/docker-copying-files-from-docker-container-to-host.html)
 - [Remote jupyter notebook file root in vscode](https://enriquecatala.com/2021/03/01/remote-jupyter-notebook-file-root-vscode.html)
-- [Despliega servicios de Azure fuera de Azure](https://enriquecatala.com/2021/02/25/Despliega-servicios-azure-fuera-de-azure.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### My latest youtube videos
