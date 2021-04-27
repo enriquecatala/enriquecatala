@@ -39,11 +39,11 @@ Here are some ideas to get you started:
 
 ### My latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Cómo instalar Kubernetes con Kubeadm (4/4)](https://enriquecatala.com/2021/04/26/kubernetes-a%C3%B1adir-persistencia.html)
+- [Libera espacio del fichero ext4.vhdx](https://enriquecatala.com/2021/04/14/Libera-espacio-del-fichero-ext4.vhdx.html)
+- [Cómo instalar Kubernetes con Kubeadm (3/4)](https://enriquecatala.com/2021/04/12/kubernetes-inicializar-nodos-procesamiento.html)
 - [Despliega Azure en tu OnPremise con Azure Arc DataServices](https://enriquecatala.com/2021/04/12/Despliega-Azure-en-tu-OnPremise-con-Arc-DataServices.html)
 - [Cómo instalar Kubernetes con Kubeadm (2/4)](https://enriquecatala.com/2021/04/08/kubernetes-master-bootstap-kubeadm.html)
-- [FastAPI helloworld!](https://enriquecatala.com/2021/03/31/fastapi-helloworld.html)
-- [Cómo instalar Kubernetes con Kubeadm (1/4)](https://enriquecatala.com/2021/03/30/instalar-cluster-kubernetes-kubeadm.html)
-- [Copying files from docker container to host](https://enriquecatala.com/2021/03/23/docker-copying-files-from-docker-container-to-host.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### My latest youtube videos
