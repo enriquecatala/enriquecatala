@@ -5,7 +5,7 @@ I´m [Microsoft Data Platform MVP](http://mvp.microsoft.com/es-es/mvp/Enrique%20
 - 🔭 I’m currently working on [Verne Tech](https://www.vernegroup.com/vernetech/)
 - 🌱 I’m currently learning as much stuff i can.
 - 💬 Ask me about Azure, Data, SqlServer, Kubernetes, dotNet, Python, keras, DAX, PowerBI, M, ARM, Docker, Terraform
-- ⚡ Fun fact: [I´m a ULM pilot :)](https://www.youtube.com/watch?v=1gtMmFfKebI)
+- ⚡ Fun fact: [I´m a ULM pilot :)](https://www.youtube.com/watch?v=1gtMmFfKebI) 🛫
 
 <a href="mailto:enrique@enriquecatala.com" >📫 You can reach me here:  </a>
 <div>
