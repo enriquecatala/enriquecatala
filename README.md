@@ -39,11 +39,11 @@ Here are some ideas to get you started:
 
 ### My latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Cómo desplegar redes neuronales en kubernetes con hardware CUDA](https://enriquecatala.com/2021/07/22/como-desplegar-redes-neuronales-kubernetes-hw-cuda.html)
 - [Configurar conda para desarrollo con python](https://enriquecatala.com/2021/05/14/Configurar-conda-para-desarrollo-con-python.html)
 - [Speaker Kubernetes Community Days Spain](https://enriquecatala.com/2021/05/13/Speaker-Kubernetes-Spanish-Day.html)
 - [Windows Terminal bonito](https://enriquecatala.com/2021/05/12/windows-terminal-bonito.html)
 - [Cute highlighting for code-snippets in GitHub pages](https://enriquecatala.com/2021/05/09/cute-highlighting-code-snippets-github-pages.html)
-- [Cómo instalar Kubernetes con Kubeadm (4/4)](https://enriquecatala.com/2021/04/26/kubernetes-a%C3%B1adir-persistencia.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### My latest youtube videos
