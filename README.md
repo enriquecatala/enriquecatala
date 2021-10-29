@@ -39,11 +39,11 @@ Here are some ideas to get you started:
 
 ### My latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [IOB train_test_split](https://enriquecatala.com/2021/09/15/IOB_train_test_split.html)
 - [RuntimeError: Already borrowed](https://enriquecatala.com/2021/09/15/RuntimeError-already-borrowed.html)
 - [How to use a specific version of az cli](https://enriquecatala.com/2021/09/09/install-specific-version-az-cli.html)
 - [Speaker netCoreConf 2021](https://enriquecatala.com/2021/08/31/Speaker-netCoreConf-2021.html)
 - [How to release memory consumed by vmmem WSL2](https://enriquecatala.com/2021/07/26/release-memory-consumed-by-vmmem.html)
-- [Cómo desplegar redes neuronales en kubernetes con hardware CUDA](https://enriquecatala.com/2021/07/22/como-desplegar-redes-neuronales-kubernetes-hw-cuda.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### My latest youtube videos
