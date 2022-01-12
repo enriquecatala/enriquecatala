@@ -39,11 +39,11 @@ Here are some ideas to get you started:
 
 ### My latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [AzureML from Docker Image](https://enriquecatala.com/2022/01/11/azureml-from-docker-image.html)
 - [Speaker Codemotion 2021](https://enriquecatala.com/2021/12/21/codemotion-speaker-deeplearning-state-of-the-art.html)
 - [IOB train_test_split](https://enriquecatala.com/2021/09/15/IOB_train_test_split.html)
 - [RuntimeError: Already borrowed](https://enriquecatala.com/2021/09/15/RuntimeError-already-borrowed.html)
 - [How to use a specific version of az cli](https://enriquecatala.com/2021/09/09/install-specific-version-az-cli.html)
-- [Speaker netCoreConf 2021](https://enriquecatala.com/2021/08/31/Speaker-netCoreConf-2021.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### My latest youtube videos
