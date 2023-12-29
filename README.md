@@ -53,11 +53,11 @@ Here are some ideas to get you started:
 
 ### My latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [AzureML from Docker Image](https://enriquecatala.com/2022/01/11/azureml-from-docker-image.html)
-- [Speaker Codemotion 2021](https://enriquecatala.com/2021/12/21/codemotion-speaker-deeplearning-state-of-the-art.html)
-- [IOB train_test_split](https://enriquecatala.com/2021/09/15/IOB_train_test_split.html)
-- [RuntimeError: Already borrowed](https://enriquecatala.com/2021/09/15/RuntimeError-already-borrowed.html)
-- [How to use a specific version of az cli](https://enriquecatala.com/2021/09/09/install-specific-version-az-cli.html)
+- [Speaking at StackIT´s CloudX summit](https://enriquecatala.com/2023/06/22/CloudXSummit.html)
+- [Global Power Platform Boocamp 2023 Alicante](https://enriquecatala.com/2023/02/09/Global-Power-Platform-2023-Alicante.html)
+- [10 performance powerbi tips](https://enriquecatala.com/2023/01/13/powerbi-10-tips-rendimiento.html)
+- [Ingestando datos con cabeza](https://enriquecatala.com/2022/12/19/ingestando-datos-con-cabeza.html)
+- [fastapi-ai-template](https://enriquecatala.com/2022/10/24/fastapi-ai-template.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### My latest youtube videos
