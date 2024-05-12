@@ -7,7 +7,7 @@ I´m a Computer Engineer with more than 19 years of experience in DataPlatform, 
 - 🌟 Co-founder and _Data Ninja_ at [Cloud Data Ninjas](https://www.clouddataninjas.com/)
 - 🌱 I’m currently learning as much stuff i can.
 - 💬 Ask me about Data, Architecture, Azure, Databricks, Terraform, Spark, SqlServer, Kubernetes, Python, dotNet, DAX, PowerBI, M, Docker.
-- ⚡ Fun fact: I´m a ULM pilot, [Watch me fly :)](https://www.youtube.com/watch?v=1gtMmFfKebI) 🛫
+- ⚡ Fun fact: I´m a ULM pilot, [Watch me fly :)](https://youtu.be/1gtMmFfKebI?si=GpvOlHMlYoh3vmv_&t=169) 🛫
 
 <a href="mailto:enrique@enriquecatala.com" >📫 You can reach me here:  </a>
 <div class="social_links">
