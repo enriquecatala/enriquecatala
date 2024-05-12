@@ -1,12 +1,13 @@
 ### Hi, I´m Enrique Catalá 👋 
 
-I am a Computer Engineer with more than 19 years of experience in DataPlatform, currently serving as the **Data Architect** at SCRM International Lidl Hub / [Schwarz Global Services Barcelona](https://it.schwarz/en/it-hubs/spain). In this role, I spearhead the data strategy, optimizing and innovating our company's approach to data. My expertise includes a 10-year tenure as a Microsoft DataPlatform MVP and a year as a Microsoft AI MVP, in addition to certifications like [Kubernetes Administrator](https://www.youracclaim.com/badges/0b17b446-3e58-4d13-aa0b-ded041a9260a/public_url), [Data Scientist](https://www.credly.com/badges/6de55996-45bf-4e15-9b4b-b13425a9064a/public_url), [Azure Data Engineer](https://www.credly.com/badges/50e1ce3f-ae34-4ce3-ba2d-a173d03d4e9d/public_url), and Microsoft Certified Trainer. My passion lies in distributed computing technologies and high-availability OLTP systems for both Azure Cloud and On-Premises. Although I no longer actively work in Natural Language Processing and multi-variate time series forecasting, my past experiences in these areas enrich my current projects. I have successfully led over 150 projects across diverse regions, including Spain, Germany, the USA, United Arab Emirates, Netherlands, Mexico, Saudi Arabia, Austria...
+I´m a Computer Engineer with more than 19 years of experience in DataPlatform, currently serving as **Data Architect** at _SCRM International Lidl Hub / Schwarz Global Services Barcelona_ and **co-founder** of [**Cloud Data Ninjas**](https://www.clouddataninjas.com/). As the Data Architect of **Lidl Plus** (one of the biggest Loyalty programs in Europe), I spearhead the data strategy, optimizing and innovating our company’s approach to data. With over two decades of experience in the field, I've had the privilege of working on cutting-edge projects around the world. My passion for data, technology, and teaching led to a decade-long tenure as a Microsoft Data Platform MVP. 
 
 
-- 🔭 I’m currently working at [SCRM - Lidl International Hub](https://www.scrm.es/)
+- 🔭 Data Architect at [Lidl Plus](https://play.google.com/store/apps/details?id=com.lidl.eci.lidlplus&pcampaignid=web_share)
+- 🌟 Co-founder and _Data Ninja_ at [Cloud Data Ninjas](https://www.clouddataninjas.com/)
 - 🌱 I’m currently learning as much stuff i can.
-- 💬 Ask me about Azure, Data, Spark, SqlServer, Kubernetes, dotNet, Python, keras, Databricks, DAX, PowerBI, M, Docker, Terraform
-- ⚡ Fun fact: [I´m a ULM pilot :)](https://www.youtube.com/watch?v=1gtMmFfKebI) 🛫
+- 💬 Ask me about Data, Architecture, Azure, Databricks, Terraform, Spark, SqlServer, Kubernetes, Python, dotNet, DAX, PowerBI, M, Docker.
+- ⚡ Fun fact: I´m a ULM pilot, [Watch me fly :)](https://www.youtube.com/watch?v=1gtMmFfKebI) 🛫
 
 <a href="mailto:enrique@enriquecatala.com" >📫 You can reach me here:  </a>
 <div class="social_links">
