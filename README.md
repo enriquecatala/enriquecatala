@@ -9,7 +9,7 @@ I´m a Computer Engineer with more than 19 years of experience in DataPlatform, 
 - 💬 Ask me about Data, Architecture, Azure, Databricks, Terraform, Spark, SqlServer, Kubernetes, Python, dotNet, DAX, PowerBI, M, Docker.
 - ⚡ Fun fact: I´m a ULM pilot, [Watch me fly :)](https://youtu.be/1gtMmFfKebI?si=GpvOlHMlYoh3vmv_&t=169) 🛫
 
-<a href="mailto:enrique@enriquecatala.com" >📫 You can reach me here:  </a>
+<a href="mailto:enrique@clouddataninjas.com" >📫 You can reach me here:  </a>
 <div class="social_links">
     <a href="https://www.clouddataninjas.com"><img src="https://img.shields.io/website?down_color=red&down_message=down&label=clouddataninjas.com&up_color=46C018&url=https%3A%2F%2Fwww.clouddataninjas.com&style=for-the-badge" alt="Cloud Data Ninjas"></a>
     <a href="https://github.com/enriquecatala" target="_blank"><img  src="https://img.shields.io/github/followers/enriquecatala?label=GitHub&style=for-the-badge" alt="GitHub followers of Enrique Catalá" ></a>
