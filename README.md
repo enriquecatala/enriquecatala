@@ -54,11 +54,11 @@ Here are some ideas to get you started:
 
 ### My latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Speaking at Databricks Data + AI Summit 2024](https://enriquecatala.com/2024/06/04/Im_Speaker_at_databricks_dais24.html)
 - [Empowering the Next Wave of Tech Talent: Celebrating 14 Years as a Microsoft Certified Trainer](https://enriquecatala.com/2024/03/07/MCT-14-years-in-a-row.html)
 - [Speaking at StackIT´s CloudX summit](https://enriquecatala.com/2023/06/22/CloudXSummit.html)
 - [Global Power Platform Boocamp 2023 Alicante](https://enriquecatala.com/2023/02/09/Global-Power-Platform-2023-Alicante.html)
 - [10 performance powerbi tips](https://enriquecatala.com/2023/01/13/powerbi-10-tips-rendimiento.html)
-- [Ingestando datos con cabeza](https://enriquecatala.com/2022/12/19/ingestando-datos-con-cabeza.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### My latest youtube videos
